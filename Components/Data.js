@@ -5,7 +5,7 @@ const Data = [
       "https://d3fziriexmtqet.cloudfront.net/video/18b9c379-6f97-486a-ab18-bb228a196f4b/18b9c379-6f97-486a-ab18-bb228a196f4b-thumbnail-horizontal.jpg",
     videoSrc:
       "https://d3fziriexmtqet.cloudfront.net/video/18b9c379-6f97-486a-ab18-bb228a196f4b/18b9c379-6f97-486a-ab18-bb228a196f4b_1080p.mp4",
-    videoName: "Birds are a group of warm-blooded vertebrates",
+    videoName: "Lorem ipsum dolor sit amet",
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ const Data = [
       "https://d3fziriexmtqet.cloudfront.net/video/18b9c379-6f97-486a-ab18-bb228a196f4b/18b9c379-6f97-486a-ab18-bb228a196f4b-thumbnail-horizontal.jpg",
     videoSrc:
       "https://d3fziriexmtqet.cloudfront.net/video/18b9c379-6f97-486a-ab18-bb228a196f4b/18b9c379-6f97-486a-ab18-bb228a196f4b_1080p.mp4",
-    videoName: "Jimmy Hendrix is the best guitarist in history",
+    videoName: "Lorem ipsum dolor sit amet",
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ const Data = [
       "https://d3fziriexmtqet.cloudfront.net/video/18b9c379-6f97-486a-ab18-bb228a196f4b/18b9c379-6f97-486a-ab18-bb228a196f4b-thumbnail-horizontal.jpg",
     videoSrc:
       "https://d3fziriexmtqet.cloudfront.net/video/18b9c379-6f97-486a-ab18-bb228a196f4b/18b9c379-6f97-486a-ab18-bb228a196f4b_1080p.mp4",
-    videoName: "Mother nature is always incredible",
+    videoName: "Lorem ipsum dolor sit amet",
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ const Data = [
       "https://d3fziriexmtqet.cloudfront.net/video/18b9c379-6f97-486a-ab18-bb228a196f4b/18b9c379-6f97-486a-ab18-bb228a196f4b-thumbnail-horizontal.jpg",
     videoSrc:
       "https://d3fziriexmtqet.cloudfront.net/video/18b9c379-6f97-486a-ab18-bb228a196f4b/18b9c379-6f97-486a-ab18-bb228a196f4b_1080p.mp4",
-    videoName: "I have loved the stars too fondly to be fearful of the night.",
+    videoName: "Lorem ipsum dolor sit amet",
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ const Data = [
       "https://d3fziriexmtqet.cloudfront.net/video/18b9c379-6f97-486a-ab18-bb228a196f4b/18b9c379-6f97-486a-ab18-bb228a196f4b-thumbnail-horizontal.jpg",
     videoSrc:
       "https://d3fziriexmtqet.cloudfront.net/video/18b9c379-6f97-486a-ab18-bb228a196f4b/18b9c379-6f97-486a-ab18-bb228a196f4b_1080p.mp4",
-    videoName: "Looking for the meaning of life",
+    videoName: "Lorem ipsum dolor sit amet",
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ const Data = [
       "https://d3fziriexmtqet.cloudfront.net/video/18b9c379-6f97-486a-ab18-bb228a196f4b/18b9c379-6f97-486a-ab18-bb228a196f4b-thumbnail-horizontal.jpg",
     videoSrc:
       "https://d3fziriexmtqet.cloudfront.net/video/18b9c379-6f97-486a-ab18-bb228a196f4b/18b9c379-6f97-486a-ab18-bb228a196f4b_1080p.mp4",
-    videoName: "Let the rain kiss you",
+    videoName: "Lorem ipsum dolor sit amet",
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ const Data = [
       "https://d3fziriexmtqet.cloudfront.net/video/18b9c379-6f97-486a-ab18-bb228a196f4b/18b9c379-6f97-486a-ab18-bb228a196f4b-thumbnail-horizontal.jpg",
     videoSrc:
       "https://d3fziriexmtqet.cloudfront.net/video/18b9c379-6f97-486a-ab18-bb228a196f4b/18b9c379-6f97-486a-ab18-bb228a196f4b_1080p.mp4",
-    videoName: "No bird soars too high if he soars with his own wings.",
+    videoName: "Lorem ipsum dolor sit amet",
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ const Data = [
       "https://d3fziriexmtqet.cloudfront.net/video/18b9c379-6f97-486a-ab18-bb228a196f4b/18b9c379-6f97-486a-ab18-bb228a196f4b-thumbnail-horizontal.jpg",
     videoSrc:
       "https://d3fziriexmtqet.cloudfront.net/video/18b9c379-6f97-486a-ab18-bb228a196f4b/18b9c379-6f97-486a-ab18-bb228a196f4b_1080p.mp4",
-    videoName: "The ocean's roar is music to the soul",
+    videoName: "Lorem ipsum dolor sit amet",
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ const Data = [
       "https://d3fziriexmtqet.cloudfront.net/video/18b9c379-6f97-486a-ab18-bb228a196f4b/18b9c379-6f97-486a-ab18-bb228a196f4b-thumbnail-horizontal.jpg",
     videoSrc:
       "https://d3fziriexmtqet.cloudfront.net/video/18b9c379-6f97-486a-ab18-bb228a196f4b/18b9c379-6f97-486a-ab18-bb228a196f4b_1080p.mp4",
-    videoName: "I am not afraid of an army of lions led by a sheep",
+    videoName: "Lorem ipsum dolor sit amet",
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ const Data = [
       "https://d3fziriexmtqet.cloudfront.net/video/18b9c379-6f97-486a-ab18-bb228a196f4b/18b9c379-6f97-486a-ab18-bb228a196f4b-thumbnail-horizontal.jpg",
     videoSrc:
       "https://d3fziriexmtqet.cloudfront.net/video/18b9c379-6f97-486a-ab18-bb228a196f4b/18b9c379-6f97-486a-ab18-bb228a196f4b_1080p.mp4",
-    videoName: "I only feel angry when I see waste",
+    videoName: "Lorem ipsum dolor sit amet",
   },
 ];
 

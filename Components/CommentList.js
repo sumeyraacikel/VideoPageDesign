@@ -1,11 +1,10 @@
 import React, { useState, useEffect } from 'react';
 
-
 function CommentList() {
     const [comments, setComments] = useState([]);
 
     useEffect(() => {
-        // API'den verileri almak için fetch kullanın
+        // API'den verileri almak için
         fetch('https://mulakat.azurewebsites.net/Post', {
             method: 'GET',
             headers: {
@@ -14,7 +13,7 @@ function CommentList() {
         })
             .then(response => response.json())
             .then(data => {
-                // API'den alınan verileri state'e kaydedin
+                // API'den alınan verileri state de kaydetmek için
                 setComments(data.commentInformation.comments);
             })
             .catch(err => console.log(err));
@@ -36,5 +35,4 @@ function CommentList() {
         </div>
     );
 }
-
 export default CommentList;

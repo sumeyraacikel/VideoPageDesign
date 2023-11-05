@@ -15,7 +15,7 @@ function RecomendedList({ imgSrc, videoName, artistName }) {
         <div className="flex items-center  mt-2">
           <p className="text-[14px] font-bold text-gray-500">40:30</p>
           <p className="text-[14px] font-bold text-gray-500 ml-6">
-            65,550 <span>views</span>
+            3000 <span>views</span>
           </p>
         </div>
       </div>

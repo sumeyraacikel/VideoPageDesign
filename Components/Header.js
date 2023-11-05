@@ -1,5 +1,4 @@
 import {
-  FiberSmartRecord,
   Notifications,
   Search,
   Settings,
